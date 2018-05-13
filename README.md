@@ -1,2 +1,3 @@
-# kali-learning
-Kali Learning Platform
+# Kali Learning
+
+Kali Learning es una plataforma para aprender.
